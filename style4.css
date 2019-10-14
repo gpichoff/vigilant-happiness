@@ -1,0 +1,171 @@
+body {
+	background-color: rgb(230, 230, 230);
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px;}
+.bodyblanc {
+	background-color: rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	margin-top: 0px; 
+	margin-right: 0px; 
+	margin-bottom: 0px; 
+	margin-left: 0px;}
+input, select {
+	padding: 4px 0px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;}
+.texte14 {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 14px;
+	color:rgb(0, 0, 0);}
+.texte12black {
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 12px;
+	color:rgb(0, 0, 0);}
+.texte12 {
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 12px;
+	color:rgb(100, 100, 100);}
+.texte10 {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 10px;
+	color:rgb(100, 100, 100);}
+.titre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color:rgb(11, 72, 146);}
+.button1 {
+	background-color:rgb(11, 72, 146);
+	border: 0px;
+	color: white;
+	padding: 7px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 5px;}
+.button1:hover {
+	background-color:rgb(31, 102, 196);}
+.button2 {
+	background-color:white;
+	color: rgb(11, 72, 146);
+	border: 1px solid rgb(11, 72, 146);
+	padding: 6px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 5px;}
+.button2:hover {
+	background-color: rgb(230, 230, 230);}
+.button3 {
+	background-color:rgb(11, 72, 146);
+	border: 0px;
+	color: white;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 5px;}
+.button3:hover {
+	background-color:rgb(31, 102, 196);}
+nav ul {
+	margin: 1% 1% 0 1%;
+	padding: 0;
+	list-style-type: none;
+	background-color: rgb(230, 230, 230);}
+.menu1 {
+	display: inline-block;
+	color: rgb(11, 72, 146);
+	font-weight: bold;
+	height: 40px;
+	border-right: 2px solid rgb(230, 230, 230);
+	text-align: center;
+	line-height: 40px;
+	vertical-align: middle;
+	font-size: 18px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;}
+.menu1:hover {
+	background-color: rgb(255, 255, 255);
+	cursor: pointer;}
+.menu2 {
+	background-color: rgb(255, 255, 255);
+	font-weight: bold;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	height: 40px;
+	border-right: 2px solid rgb(230, 230, 230);
+	text-align: center;
+	line-height: 40px;
+	vertical-align: middle;
+	font-size: 18px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;}
+iframe {
+	background-color:rgb(255, 255, 255);
+	width: 96%;
+	height: 86%;
+	margin: 0 1% 1% 1%;
+	padding : 1%;
+	border: none;}
+.selectdevis {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	width: 200px;}
+.tableau {
+	width: 100%;}
+.tableauet14 {
+	background-color:rgb(230, 230, 230);
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	padding: 8px 8px;
+	font-weight:bold;
+	color:rgb(11, 72, 146);
+	text-align:left;
+	border-bottom: 2px solid rgb(11, 72, 146);}
+.tableaur13 {
+	background-color:rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	padding: 8px 0px;
+	color:rgb(0, 0, 0);
+	text-align:left;
+	border-top: 1px solid rgb(11, 72, 146);}
+.tableaur13:hover {
+	background-color:rgb(221, 242, 255);
+	cursor: pointer;}
+.tableauet12 {
+	background-color:rgb(230, 230, 230);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	font-weight: bold;
+	color:rgb(11, 72, 146);
+	text-align:left;
+	border-bottom: 2px solid rgb(11, 72, 146);}
+.tableaur11 {
+	background-color:rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	color:rgb(0, 0, 0);
+	text-align:left;
+	border-top: 1px solid rgb(11, 72, 146);}
+.tableaurow10:hover {
+	background-color:rgb(221, 242, 255);
+	cursor: pointer;}	
+.tableaucells {
+	border-bottom: 1px solid rgb(11, 72, 146);}
